@@ -1,0 +1,41 @@
+.php oops concept
+.MVC
+.Active Record
+.Request handling (session, cookies(not implemented)
+.Logging(message filter, message formatting, message flushing)	
+.Why we use cookies.
+.difference between session and cookies.
+.session set, get, remove.
+.Logging
+.log message(debug, info, warning, errors)
+logging various type of msg to different targets
+.log target(db target, email target, file target)
+SECURITY
+.what is authentication and authorization.
+.password authentication
+.Access control filter
+
+Cryptography
+.Generating pseudorandom data
+.Encryption and Decryption
+.Conforming Data Integrity
+ 	 	 	 	 
+
+.Template bootstraping in frontend
+ 
+	
+cache
+.Data catching
+.Fragment Caching
+.Page Catching
+.Http Catching
+ 
+	
+Create Tables and Interrelate them
+.Association(One to One, One to Many, Many to Many)
+	
+.Joins(Inner Join, Outer Join, Left Join, Right Join)
+
+.Data insertion through active records
+.Join tables with relations
+ .task
